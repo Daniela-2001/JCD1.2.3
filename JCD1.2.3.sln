@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCD1.2.3", "JCD1.2.3.csproj", "{FAFA00B7-1C87-4F73-81E6-2F26FA5F9D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAFA00B7-1C87-4F73-81E6-2F26FA5F9D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFA00B7-1C87-4F73-81E6-2F26FA5F9D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFA00B7-1C87-4F73-81E6-2F26FA5F9D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFA00B7-1C87-4F73-81E6-2F26FA5F9D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC25FBB9-8B0E-408F-B327-0A590D0196EC}
+	EndGlobalSection
+EndGlobal
