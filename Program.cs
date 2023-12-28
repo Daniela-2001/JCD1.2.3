@@ -61,8 +61,8 @@
 
                 double divisao1 = num1 / (num2 * num3 * num4);
                 double divisao2 = num2 / (num1 * num3 * num4);
-                double divisao3 = num1 / (num1 * num2 * num4);
-                double divisao4 = num1 / (num1 * num2 * num3);
+                double divisao3 = num3 / (num1 * num2 * num4);
+                double divisao4 = num4 / (num1 * num2 * num3);
 
                 double menorDivisao = Math.Min(Math.Min(divisao1, divisao2), Math.Min(divisao3, divisao4));
                 
